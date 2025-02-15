@@ -18,10 +18,15 @@
 🔹 **Backend:** Node.js, Express.js, MongoDB  
 🔹 **Authentication:** JWT, Firebase Auth  
 🔹 **Payments:** Razorpay / Stripe Integration  
+
 🔹 **Deployment:** Vercel / AWS / Firebase  
 
-## 📌 Getting Started  
+## 📌 User Interface
 
+![WhatsApp Image 2025-02-15 at 8 38 58 AM](https://github.com/user-attachments/assets/480e09ec-0e4d-4e9f-897e-2fbf5b53ca9e) 
+
+## 📌 Getting Started  
 1️⃣ Clone the repository:  
 ```bash
 git clone https://github.com/Utkarsh8867/Farmer-Market-Productstore.git
+
