@@ -25,18 +25,19 @@
 ## 📸 Screenshots
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/480e09ec-0e4d-4e9f-897e-2fbf5b53ca9e" alt="Image 1" width="30%">
-    <img src="https://github.com/user-attachments/assets/8d6c9bdf-9f49-4d4f-b7a6-7e69b9579b76" alt="Image 2" width="30%">
-    <img src="https://github.com/user-attachments/assets/cfa2164b-636d-44a5-9b32-3693bf61915f" alt="Image 3" width="30%">
+    <img src="https://github.com/user-attachments/assets/5286db38-4579-46e2-8dc3-179206ad1507" alt="Image 1" width="30%">
+    <img src="https://github.com/user-attachments/assets/c07b2660-8743-46d8-8589-49d690116cf2" alt="Image 2" width="30%">
+    <img src="https://github.com/user-attachments/assets/aee0a4c8-5548-46e6-a2fd-e314845b5726" alt="Image 3" width="30%">
 </p>
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/e03749ba-4f4e-49ce-bba6-96a7ce4cce35" alt="Image 4" width="30%">
-    <img src="https://github.com/user-attachments/assets/086a32da-3fac-40a7-a99f-44ebbc91ea3b" alt="Image 5" width="30%">
-    <img src="https://github.com/user-attachments/assets/9f52150a-b276-4067-848f-743d263a2840" alt="Image 6" width="30%">
+    <img src="https://github.com/user-attachments/assets/261484b8-c81f-44c9-b203-427c473e6c6e" alt="Image 4" width="30%">
+    <img src="https://github.com/user-attachments/assets/8ab835ad-2a63-4034-8c7e-64255bbf0f10" alt="Image 5" width="30%">
+    <img src="https://github.com/user-attachments/assets/b72579e9-69d1-49d7-a023-e6e21eb5af80" alt="Image 6" width="30%">
 </p>
 
 ## 📌 Getting Started 
+
 1️⃣ Clone the repository:  
 ```bash
 git clone https://github.com/Utkarsh8867/Farmer-Market-Productstore.git
