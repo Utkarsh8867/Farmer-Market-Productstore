@@ -22,10 +22,21 @@
 🔹 **Deployment:** Vercel / AWS / Firebase  
 
 ## 📌 User Interface
+## 📸 Screenshots
 
-![WhatsApp Image 2025-02-15 at 8 38 58 AM](https://github.com/user-attachments/assets/480e09ec-0e4d-4e9f-897e-2fbf5b53ca9e) 
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/480e09ec-0e4d-4e9f-897e-2fbf5b53ca9e" alt="Image 1" width="30%">
+    <img src="https://github.com/user-attachments/assets/8d6c9bdf-9f49-4d4f-b7a6-7e69b9579b76" alt="Image 2" width="30%">
+    <img src="https://github.com/user-attachments/assets/cfa2164b-636d-44a5-9b32-3693bf61915f" alt="Image 3" width="30%">
+</p>
 
-## 📌 Getting Started  
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/e03749ba-4f4e-49ce-bba6-96a7ce4cce35" alt="Image 4" width="30%">
+    <img src="https://github.com/user-attachments/assets/086a32da-3fac-40a7-a99f-44ebbc91ea3b" alt="Image 5" width="30%">
+    <img src="https://github.com/user-attachments/assets/9f52150a-b276-4067-848f-743d263a2840" alt="Image 6" width="30%">
+</p>
+
+## 📌 Getting Started 
 1️⃣ Clone the repository:  
 ```bash
 git clone https://github.com/Utkarsh8867/Farmer-Market-Productstore.git
